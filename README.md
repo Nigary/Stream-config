@@ -1,5 +1,5 @@
 Toutes les configurations pour stream : 
-![hey](https://img.icons8.com/ios/512/streamlabs-obs.png)]
+![hey](https://img.icons8.com/ios/512/streamlabs-obs.png)
 
 1440p à 60 ips : 
 
